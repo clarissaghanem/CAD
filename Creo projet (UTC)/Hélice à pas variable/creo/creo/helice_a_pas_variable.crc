@@ -1,0 +1,87 @@
+﻿  MODEL HELICE_A_PAS_VARIABLE :
+ 
+
+  5 CIRCULAR REFERENCE LOOPS FOUND
+ 
+
+   LOOP #  1
+
+   Depth of loop is 3
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE refers to:
+
+Feature number 15 (HOLE_2, id = 2063) 
+  in model PIVOT_DE_PALE refers to:
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE - circle closed.
+
+
+   LOOP #  2
+
+   Depth of loop is 4
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE refers to:
+
+Feature number 15 (HOLE_2, id = 2063) 
+  in model PIVOT_DE_PALE must follow after:
+
+Feature number 8 (PATTERN_1, id = 1587) 
+  in model PIVOT_DE_PALE refers to:
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE - circle closed.
+
+
+   LOOP #  3
+
+   Depth of loop is 4
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE refers to:
+
+Feature number 16 (EXTRUDE_4, id = 2111) 
+  in model PIVOT_DE_PALE must follow after:
+
+Feature number 8 (PATTERN_1, id = 1587) 
+  in model PIVOT_DE_PALE refers to:
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE - circle closed.
+
+
+   LOOP #  4
+
+   Depth of loop is 4
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE refers to:
+
+Feature number 18 (DATUM AXIS, id = 2366) 
+  in model PIVOT_DE_PALE must follow after:
+
+Feature number 8 (PATTERN_1, id = 1587) 
+  in model PIVOT_DE_PALE refers to:
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE - circle closed.
+
+
+   LOOP #  5
+
+   Depth of loop is 4
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE refers to:
+
+Feature number 19 (REVOLVE_1, id = 2370) 
+  in model PIVOT_DE_PALE must follow after:
+
+Feature number 8 (PATTERN_1, id = 1587) 
+  in model PIVOT_DE_PALE refers to:
+
+Feature number 42 (PATTERN_7, id = 4456) 
+  in model HELICE_A_PAS_VARIABLE - circle closed.
+
